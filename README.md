@@ -1,1 +1,1 @@
-# hello_app
+# First rails application : "hello_app"
